@@ -1,5 +1,6 @@
 # COVID-19 Global Dashboard (2020-2024)
 
+#### Dashboard Link : https://public.tableau.com/views/Covid19Dashboard_17250188870220/Covid19Cases?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Overview
 
